@@ -27,8 +27,13 @@
     color: white;
     font-size: 3em;
 }
+.welcome h2 {
+    color: white;
+}
 .about {
     font-family: 'Times New Roman', Times, serif; 
+    margin-left: auto;
+    margin-top: auto;
     
 }
 .about p {
