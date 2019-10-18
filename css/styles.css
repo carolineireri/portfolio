@@ -1,0 +1,41 @@
+*
+.intro .welcome { 
+    float: left;
+    margin:20;
+    position: absolute;
+   top: 0;
+   width: 100%;
+   padding: 50px;
+   text-align: center;
+}
+.welcome {
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: 200;
+    background-color: transparent;
+}
+.intro{
+    position: relative;
+    margin: auto;    
+}
+.intro img{
+    width: 1280px;
+    height: 300px;
+}
+.welcome h2 {
+    color:white;
+}
+.welcome h1 {
+    color: white;
+}
+.about {
+    background-color: cornflowerblue;
+    float: left;
+    width: 400px;
+    height: 300px;
+    margin:20px;
+}
+.about img{
+    width: 400px;
+    height: 300px;
+}
