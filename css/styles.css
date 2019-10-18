@@ -27,15 +27,22 @@
 }
 .welcome h1 {
     color: white;
+    font-size: 3em;
 }
 .about {
-    background-color: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
     float: left;
     width: 400px;
     height: 300px;
     margin:20px;
 }
-.about img{
+.about h2 {
+    font-style: italic; 
+}
+.me {
+    float:right;
+}
+.me img{
     width: 400px;
     height: 300px;
 }
