@@ -4,6 +4,8 @@
 Caroline Nyambura Ireri
 
 ## Screenshots
+<img src="images/portfolio1.png">
+<img src="images/portfolio2.png">
 
 ## Description
 This is a portfolio website that gives information about my education background,skills,interests and some of the projects that I have worked on.
