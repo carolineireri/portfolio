@@ -11,7 +11,7 @@ This is a portfolio website that gives information about my education background
 ## Deploying 
 
 ## BDD
-
+On visiting this webpage, The home page is displayed which contains my name and a breif introduction. There is a navigation tab at the top of the page which links you to the respective content upon clicking on the corresponding tab. If you click on Contacts for example, the content with my contacts is displayed.
 ## Technologies used
 -HTML
 -CSS
