@@ -19,9 +19,10 @@ body {
 .intro-flex {
   display: flex;
   justify-content: space-between;
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
   margin-top: 30px;
+  background-color: whitesmoke;
 }
 .welcome {
   font-family: sans-serif;
@@ -54,6 +55,7 @@ body {
   width: 400px;
   height: 300px;
   border-radius: 50%;
+  padding: 20px;
 }
 .navigation {
   background-color: transparent;
@@ -63,4 +65,14 @@ body {
 .navigation a {
   color: white;
   padding: 20px;
+}
+.my_name {
+  margin: 20px;
+  font-weight: lighter;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.social_media img {
+  width: 200px;
+  height: 200px;
+  padding: 10px;
 }
