@@ -101,10 +101,15 @@ p {
   text-align: left;
 }
 #pic img {
-  width: 100px;
-  height: 200px;
-  border-radius: 50%;
+  width: 400px;
+  height: 500px;
+  /* border-radius: 50%; */
   padding: 5px;
+  margin: auto;
+}
+#pic {
+  margin-left: auto;
+  margin-right: auto;
   float: right;
 }
 
