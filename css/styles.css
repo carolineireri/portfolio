@@ -93,19 +93,9 @@ p {
 }
  #pic img {
   width: 400px;
-  height: 500px;
-  float: right;
-  margin: 0 auto;
-  
+  height: 300px;
+  border-radius: 50%;
 }
-/* #pic {
-  display: flex;
-  margin: 0 auto;
-  margin-top: 5px;
-  float: right;
-  /* width: 400px;
-  height: 400px; */
-*/
 #footer {
   background-color: black;
   width: 1000px;
