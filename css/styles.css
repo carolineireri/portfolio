@@ -84,6 +84,28 @@ p {
   background-color: whitesmoke;
   height: 300px;
 }
+#project img {
+  width: 500px;
+  height: 300px;
+}
+#project img {
+  text-align: left;
+}
+ #pic img {
+  width: 400px;
+  height: 500px;
+  float: right;
+  margin: 0 auto;
+  
+}
+/* #pic {
+  display: flex;
+  margin: 0 auto;
+  margin-top: 5px;
+  float: right;
+  /* width: 400px;
+  height: 400px; */
+*/
 #footer {
   background-color: black;
   width: 1000px;
@@ -92,24 +114,5 @@ p {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-}
-#project img {
-  width: 500px;
-  height: 300px;
-}
-#project img {
-  text-align: left;
-}
-#pic img {
-  width: 400px;
-  height: 500px;
-  /* border-radius: 50%; */
-  padding: 5px;
-  margin: auto;
-}
-#pic {
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
 }
 
